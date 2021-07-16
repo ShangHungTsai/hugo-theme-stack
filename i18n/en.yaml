@@ -36,6 +36,9 @@ notFound:
         other: This page does not exist.
 
 widget:
+    recent:
+        title:
+            other: Recent
     archives:
         title:
             other: Archives
